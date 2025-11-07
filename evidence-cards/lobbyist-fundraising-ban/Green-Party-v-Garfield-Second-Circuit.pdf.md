@@ -5,6 +5,29 @@
 ### August Term 2009  
 
 (Argued January 13, 2010
+Decided July 13, 2010)
+
+Docket Nos. 09-0599-cv(L), 09-0609-cv(CON)
+
+Green Party of Connecticut, S. Michael Derosa, Libertarian Party of Connecticut, Elizabeth Gallo, Joanne P. Philips, Ann C. Robinson, Roger C. Vann, Association of CT Lobbyists, and Barry Williams,
+
+## Plaintiffs-Appellants,
+
+v.
+
+Jeffrey Garfield, Richard Blumenthal, Patricia Hendel, Robert N. Worgaftik, Jaclyn Bernstein, Rebecca M. Doty, Enid Johns Oresman, Dennis Riley, Michael Rion, Scott A. Storms, Sister Sally J. Tolles, and Benjamin Bycel,
+
+## Defendants-Appellees,
+
+Audrey Blondin, Tom Sevigny, Common Cause of CT, and Connecticut Citizen Action Group,
+
+Intervenor-Defendants-Appellants.
+
+Before Kearse, Cabranes, and Hall, Circuit Judges.
+
+Appeal from a February 11, 2009 partial final judgment of the United States District Court for the District of Connecticut (Stefan R. Underhill, Judge) entered after the Court granted summary judgment to defendants, upholding several provisions of Connecticut's Campaign Finance Reform Act (CFRA) against a First Amendment challenge.
+
+We affirm the judgment of the District Court insofar as it upheld certain provisions banning state contractors and associated individuals from making campaign contributions to candidates for state office.
 
 ---
 

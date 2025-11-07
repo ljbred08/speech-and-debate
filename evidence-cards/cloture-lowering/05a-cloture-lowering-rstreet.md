@@ -13,4 +13,4 @@
 | **Author or Publisher** | Jeremy Dalrymple, R Street Institute |
 | **Date first published** | September 11, 2025 |
 | **Date updated** | N/A |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

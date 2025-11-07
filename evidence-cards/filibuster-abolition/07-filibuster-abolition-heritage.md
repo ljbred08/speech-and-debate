@@ -13,4 +13,4 @@
 | **Author or Publisher** | Brian Darling |
 | **Date first published** | January 3, 2011 |
 | **Date updated** | N/A |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

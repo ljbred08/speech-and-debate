@@ -13,4 +13,4 @@
 | **Author or Publisher** | Jennifer J. Schulp, Cato Institute |
 | **Date first published** | 2024 |
 | **Date updated** | N/A |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

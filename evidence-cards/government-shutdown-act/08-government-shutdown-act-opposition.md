@@ -13,4 +13,4 @@
 | **Author or Publisher** | Richard Kogan and Paul N. Van de Water, Center on Budget and Policy Priorities |
 | **Date first published** | January 30, 2019 |
 | **Date updated** | January 30, 2019 |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

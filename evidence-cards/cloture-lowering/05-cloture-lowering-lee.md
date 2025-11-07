@@ -13,4 +13,4 @@
 | **Author or Publisher** | Senator Mike Lee (R-UT), U.S. Senator |
 | **Date first published** | January 27, 2021 |
 | **Date updated** | N/A |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

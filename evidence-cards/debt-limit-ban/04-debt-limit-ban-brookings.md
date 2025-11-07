@@ -13,4 +13,4 @@
 | **Author or Publisher** | Wendy Edelberg and Noadia Steinmetz-Silber |
 | **Date first published** | May 23, 2023 |
 | **Date updated** | N/A |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

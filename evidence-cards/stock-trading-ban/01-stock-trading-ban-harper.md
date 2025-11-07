@@ -13,4 +13,4 @@
 | **Author or Publisher** | Jim Harper, Cato Institute |
 | **Date first published** | March 16, 2008 |
 | **Date updated** | N/A |
-| **Date accessed** | Nov 2025 |
+| **Date accessed** | November 7, 2025 |

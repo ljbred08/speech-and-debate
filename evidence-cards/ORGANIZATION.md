@@ -7,36 +7,41 @@ This folder contains debate evidence organized by case/topic for easy navigation
 ### 📁 stock-trading-ban/
 **Evidence cards opposing bans on congressional stock trading**
 - `01-stock-trading-ban-harper.md` - Jim Harper (Cato Institute) analysis of STOCK Act enforcement problems
+- `01-stock-trading-ban-harper-source.md` - Complete source documentation
 - `02-stock-trading-ban-cato.md` - Cato Institute arguments against insider trading bans
-- PDF source files and parsed markdown versions
+- `02-stock-trading-ban-cato-source.md` - Complete source documentation
 
 ### 📁 debt-limit-ban/
 **Evidence cards opposing bans on congressional debt limit increases**
 - `03-debt-limit-ban-treasury.md` - U.S. Treasury Department on economic consequences
+- `03-debt-limit-ban-treasury-source.md` - Complete source documentation
 - `04-debt-limit-ban-brookings.md` - Brookings Institution analysis of taxpayer costs
-- PDF source files and parsed markdown versions
+- `04-debt-limit-ban-brookings-source.md` - Complete source documentation
 
 ### 📁 cloture-lowering/
 **Evidence cards opposing lowering Senate cloture threshold to simple majority**
 - `05-cloture-lowering-lee.md` - Senator Mike Lee on preserving 60-vote threshold
+- `05-cloture-lowering-lee-source.md` - Complete source documentation
 - `05a-cloture-lowering-rstreet.md` - R Street Institute analysis of nuclear option
-- PDF source files including Brookings debate transcript and academic research
+- `05a-cloture-lowering-rstreet-source.md` - Complete source documentation
+- Additional research files including academic papers and debate transcripts
 - *Note: Legislative Studies paper argues opposite position but included for research completeness*
 
 ### 📁 lobbyist-fundraising-ban/
 **Evidence cards opposing bans on lobbyist campaign contributions**
 - `06-lobbyist-fundraising-ban-cornell.md` - Green Party v. Garfield Second Circuit decision
-- PDF source files including court opinion and related research
+- `06-lobbyist-fundraising-ban-cornell-source.md` - Complete source documentation
+- Court opinion PDF and related research files
 
 ### 📁 filibuster-abolition/
 **Evidence cards supporting filibuster preservation**
 - `07-filibuster-abolition-heritage.md` - Heritage Foundation defense of filibuster
-- PDF source files and parsed markdown versions
+- `07-filibuster-abolition-heritage-source.md` - Complete source documentation
 
 ### 📁 government-shutdown-act/
 **Evidence cards opposing the Government Shutdown Prevention Act**
 - `08-government-shutdown-act-opposition.md` - Analysis of Act's potential problems
-- PDF source files and parsed markdown versions
+- `08-government-shutdown-act-opposition-source.md` - Complete source documentation
 
 ### 📁 archive/
 **Older evidence cards that have been replaced or are no longer actively used**
@@ -44,6 +49,7 @@ This folder contains debate evidence organized by case/topic for easy navigation
 ## File Types
 
 - `.md` files - Evidence cards in markdown format (for editing)
+- `-source.md` files - Complete source documentation in markdown format (for verification)
 - `.pdf.md` files - Parsed PDF content in markdown format (for research)
 - `.pdf.metadata.json` files - PDF processing metadata
 - `.pdf` files - Original PDF source documents

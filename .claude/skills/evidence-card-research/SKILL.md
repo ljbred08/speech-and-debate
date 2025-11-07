@@ -105,13 +105,49 @@ Each card must include:
 
 ### File Organization
 - Create dedicated `evidence-cards/` folder
-- Maintain both markdown and PDF versions
-- Use systematic naming (01-topic-source.md)
+- Maintain both evidence card (.md) and source documentation (-source.md) files
+- Use systematic naming (01-topic-source.md, 01-topic-source.md)
+
+### Source Documentation Creation
+Each evidence card must have a corresponding source markdown file for verification:
+
+**Primary Method - Percollate:**
+```bash
+percollate md https://example.com -o "evidence-cards/topic/01-topic-source.md"
+```
+
+**Fallback Method - Chrome PDF + Parse:**
+```bash
+"C:\PortableApps\App\Chrome-bin\chrome.exe" --headless --disable-gpu --print-to-pdf="temp.pdf" https://example.com
+parse "temp.pdf"
+mv "C:\Users\link\.parse\temp.pdf.md" "evidence-cards/topic/01-topic-source.md"
+rm "temp.pdf"
+```
+
+**Direct PDF Download + Parse:**
+```bash
+curl -o "temp.pdf" https://example.com/document.pdf
+parse "temp.pdf"
+mv "C:\Users\link\.parse\temp.pdf.md" "evidence-cards/topic/01-topic-source.md"
+rm "temp.pdf"
+```
+
+### Source File Formatting
+Ensure consistent format across all source files:
+```markdown
+# [Title]
+
+By [Author]
+
+Source: [URL]
+
+[Full content...]
+```
 
 ### PDF Generation
-- **Default**: Use `mcp__Printer__markdown_to_pdf` to convert markdown evidence cards directly to PDF files
-- Create clear file naming for identification (01-topic-source.pdf)
-- Save PDFs to same location as source files
+- **Evidence Cards**: Use `mcp__Printer__markdown_to_pdf` to convert evidence cards to printable PDFs
+- Create clear file naming for identification (01-topic.pdf)
+- Save PDFs to same location as evidence card files
 - **Physical Printouts**: Only use `mcp__Printer__list_printers` and `mcp__Printer__print_file` when user specifically requests physical printing
 
 ### Windows-Specific Issues

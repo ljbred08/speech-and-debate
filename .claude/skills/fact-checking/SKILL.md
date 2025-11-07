@@ -82,4 +82,33 @@ There should be ONE and ONE ONLY source (webpage link) per card.
 
 3. After you have done the process for all the files, report to user; for any files that were changed, regenerate the PDF versions with markdown_to_pdf.
 
+## Source File Usage During Fact-Checking
+
+### Using Existing Source Documentation
+
+When fact-checking evidence cards, first check if corresponding source markdown files already exist:
+
+```bash
+# Look for existing source files
+find evidence-cards/ -name "*-source.md"
+```
+
+**If source file exists (e.g., `01-topic-source.md`):**
+- Use Read tool to access the source content directly
+- Verify quotes against the existing source markdown file
+- No need to create new source documentation
+
+**If source file doesn't exist:**
+- Create source documentation using percollate or Chrome PDF + Parse methods
+- Use the source URL from the evidence card to generate the source file
+- Follow the source creation workflow in the evidence-card-research skill
+
+### Source File Verification
+
+When using existing source files:
+1. Verify the source file contains the complete original content
+2. Check that the source URL matches the evidence card citation
+3. Ensure content is complete and not truncated
+4. Use the source file for all quote verification instead of web crawling
+
 PLEASE OBEY the instructions about user interaction. Do not just blaze on through the entire thing and only interact with the user after you're done.

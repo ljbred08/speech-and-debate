@@ -93,6 +93,56 @@ powershell "Move-Item 'source with spaces.pdf' 'destination with spaces.pdf'"
 - **Current Method**: `mcp__Printer__markdown_to_pdf` direct conversion
 - **Advantages**: Consistent formatting, automation capability, better quality
 
+### Source Documentation Workflow Evolution
+**Multi-Method Approach for Reliable Source Capture**:
+
+1. **Percollate Primary Method**:
+   - Most reliable for standard web pages
+   - Automatic markdown conversion with proper formatting
+   - Built-in source URL preservation
+   - Command: `percollate md https://example.com -o "source.md"`
+
+2. **Chrome PDF + Parse Fallback**:
+   - Handles JavaScript-heavy sites that percollate can't process
+   - Uses Chrome Portable for PDF generation
+   - Parse tool converts PDF to markdown
+   - Essential for complex web applications
+
+3. **Direct PDF Download + Parse**:
+   - Used when original source is already in PDF format
+   - Common with academic papers, government reports, court documents
+   - Most reliable method for PDF-based sources
+   - Skip web-to-PDF conversion entirely
+
+### Source File Standardization Protocol
+**Ensuring Consistent Formatting Across All Methods**:
+
+```markdown
+# [Article Title]
+
+By [Author Name]
+
+Source: [Original URL]
+
+[Full article content...]
+```
+
+**Quality Control Steps**:
+1. Verify source URL is present and clickable
+2. Check that author and title are properly extracted
+3. Ensure content matches original source
+4. Add missing Source: URL line for non-percollate files
+5. Clean up temporary PDF files after processing
+
+### Troubleshooting Source Creation Issues
+**Problem-Solution Matrix**:
+
+- **Percollate fails/no content** → Use Chrome PDF + Parse
+- **Chrome PDF generation fails** → Try direct PDF download
+- **Parse tool fails** → Use percollate or research tools for alternative source
+- **URL returns Cloudflare/bot protection** → Use manual download + parse
+- **PDF parsing produces HTML instead of content** → Research alternative sources
+
 ## Troubleshooting Advanced Issues
 
 ### Claude Skill Activation Problems

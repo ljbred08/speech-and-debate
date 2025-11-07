@@ -18,6 +18,7 @@ This folder contains debate evidence cards with both markdown source files and c
 - **Generation**: Should be created using `mcp__Printer__markdown_to_pdf` for consistent formatting
 - **Usage**: Intended for printing and evidence exchange in debate rounds
 - **Naming**: Should use clear, descriptive naming (e.g., "01-topic-source.pdf")
+- **Content**: Should be identical to the corresponding .md files; if not, notify the user and help figure out how to merge the differences and which version is accurate.
 
 ## Quality Standards
 
@@ -35,65 +36,37 @@ Quotes should be:
 - **Contextual**: Include enough surrounding information to understand the quote's significance
 - **Accurate**: Exact wording from original sources with proper citation
 
-## File Management
+## File Organization
 
-### Organization
 - **Naming Convention**: Use systematic numbering (01-, 02-, etc.) for easy organization
-- **Consistent Structure**: All files should follow the same evidence card template
-- **Paired Files**: Each markdown file should have a corresponding PDF version
-- **Version Control**: Commit changes to preserve research progress
-
-### Creation Workflow
-When creating new evidence cards:
-1. **Research Phase**: Use Perplexity Ask as primary research tool
-2. **Source Verification**: Use exa crawling to access and verify original sources
-3. **Quote Selection**: Extract substantial, complete-sentence quotes
-4. **Card Creation**: Format using standard evidence card structure
-5. **Quality Review**: Apply approval criteria for quote quality and source reliability
-6. **PDF Generation**: Create printable version using markdown_to_pdf tool
+- **Consistent Structure**: All files follow the standard evidence card template
+- **Paired Files**: Each markdown file has a corresponding PDF version
+- **Version Control**: Changes should be committed to preserve research progress
 
 ## Usage Guidelines
 
 ### For Debate Competition
 - **PDF Files**: Use printed PDFs for debate rounds and evidence exchange
-- **Verbal Citations**: All evidence should include complete verbal citations for rounds
-- **Strategic Use**: Cards should support comprehensive argument construction
-- **Citation Accuracy**: All bibliographic information should be complete and verifiable
+- **Verbal Citations**: All evidence includes complete verbal citations for rounds
+- **Strategic Use**: Cards support comprehensive argument construction
+- **Citation Accuracy**: All bibliographic information is complete and verifiable
 
-### For Research and Development
-- **Markdown Files**: Use as source for further research and verification
+### For Research and Verification
+- **Markdown Files**: Use as source for further research and fact-checking
 - **Source Links**: Include URLs for accessing original documents
-- **Quality Assurance**: Apply consistent standards to all new evidence cards
-- **Methodology**: Follow evidence card research workflow for new research
+- **Content Sync**: PDF files should be identical to corresponding .md files
 
-## Research Best Practices
+## Creating New Evidence Cards
 
-### Source Verification
-- Always trace quotes back to original primary sources
-- Use exa crawling with livecrawl: "preferred" for fresh content
-- Cross-reference author credentials and institutional authority
-- Verify publication dates and continuing relevance
+To create new evidence cards, use the **Evidence Card Research skill** located at:
+`.claude/skills/evidence-card-research/SKILL.md`
 
-### Quality Control
-- Apply multiple-choice approval criteria:
-  - A) Excellent: Rich, complete sentences with detailed explanations
-  - B) Good: Has some context but could be improved
-  - C) Poor: Short, choppy quotes that need significant revision
-  - D) Acceptable: Meets minimum standards for debate evidence
-- Iterate based on feedback until quality standards are met
-- Maintain both markdown and PDF versions for flexibility
+The skill provides:
+- Complete research workflow and tool guidance
+- Quality standards and approval criteria
+- Step-by-step instructions for card creation
+- Troubleshooting and best practices
 
-## Technical Notes
-
-### Tool Usage
-- **Research Tools**: Prioritize Perplexity Ask over search tools for efficiency
-- **Content Extraction**: Use exa crawling as primary method for source verification
-- **PDF Generation**: Use markdown_to_pdf for consistent, automated conversion
-- **File Operations**: Use PowerShell for complex operations when bash fails
-
-### Platform Considerations
-- **Windows Compatibility**: Use cmd /c npx wrapper for MCP configurations
-- **Path Handling**: Handle spaces in file names carefully
-- **Printer Access**: Use list_printers and print_file only when physical printing is requested
+See the skill documentation for comprehensive guidance on evidence card research methodology.
 
 This folder should serve as a comprehensive resource for high-quality debate evidence research, with all cards meeting rigorous academic and competitive debate standards.

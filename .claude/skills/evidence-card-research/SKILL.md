@@ -148,6 +148,9 @@ Before finalizing each card:
 - **Source verification gaps**: Always use exa crawling to verify original sources
 - **Inefficient tool usage**: Follow tool hierarchy strictly, avoid Perplexity Search
 
+## Continuous Improvement
+If the user tells you a new tweak that is not already covered in this skill file, ask the user if they'd like you to add it to this skill file.
+
 ## Version History
 
 - v1.0.0 (2025-11-07): Initial release with complete workflow and quality standards

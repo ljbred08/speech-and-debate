@@ -52,14 +52,13 @@ Quotes should be:
 - **Citation Accuracy**: All bibliographic information is complete and verifiable
 
 ### For Research and Verification
-- **Markdown Files**: Use as source for further research and fact-checking
+- **Markdown Files**: Use as source for further research; however DO NOT treat the md files as infallible as they are still very likely to have mistakes. For definitive fact-checking, always use the original sources linked.
 - **Source Links**: Include URLs for accessing original documents
 - **Content Sync**: PDF files should be identical to corresponding .md files
 
 ## Creating New Evidence Cards
 
-To create new evidence cards, use the **Evidence Card Research skill** located at:
-`.claude/skills/evidence-card-research/SKILL.md`
+To create new evidence cards, use the **Evidence Card Research skill.**
 
 The skill provides:
 - Complete research workflow and tool guidance

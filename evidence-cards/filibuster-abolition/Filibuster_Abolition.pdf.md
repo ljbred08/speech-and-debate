@@ -1,0 +1,48 @@
+
+# Filibuster Abolition.pdf
+
+## Evidence Card: Arguments Against Abolishing the Filibuster
+
+### Team Policy Evidence Sheet
+
+**Tag Line**  
+The filibuster is constitutionally authorized under Article I Section 5 and realizes the Founders' intent for Senate deliberation
+
+**Verbal Citation**  
+"Article I, Section 5 of the Constitution empowers both the House and Senate to determine its own rules of proceedings." - Brian Darling, "The Filibuster Protects the Rights of All Senators and the American People", Jan 3, 2011  
+"The filibuster actually realizes the Founders' intent that the Senate slow the legislative process 'to ensure due deliberation and inquiry' before passing a bill." - Brian Darling, "The Filibuster Protects the Rights of All Senators and the American People", Jan 3, 2011  
+"The filibuster enables all Senators to participate in the legislative process." - Brian Darling, "The Filibuster Protects the Rights of All Senators and the American People", Jan 3, 2011  
+"The Senate is a continuing body with one-third of its membership up for election at any one time." - Brian Darling, "The Filibuster Protects the Rights of All Senators and the American People", Jan 3, 2011
+
+**What the evidence says in context**  
+Heritage Foundation Senior Fellow Brian Darling argues that the filibuster has strong constitutional foundations and historical justification. He notes that Article I, Section 5 of the Constitution explicitly empowers both chambers of Congress to determine their own rules of proceedings, providing clear constitutional authority for Senate procedural rules including the filibuster. Darling emphasizes that the filibuster actually realizes the Founders' intent for the Senate to slow the legislative process to ensure due deliberation and inquiry before passing legislation. As a continuing body with only one-third of membership up for election at any time, the Senate requires such mechanisms to protect institutional stability and ensure all senators can meaningfully participate in the legislative process.
+
+**Impact**  
+Abolishing the filibuster would eliminate a constitutionally authorized Senate procedure that realizes the Founders' intent for careful deliberation. Article I, Section 5 explicitly grants
+
+
+---
+
+
+Congress authority to determine its own rules, providing solid constitutional foundation for the filibuster. As a continuing body with staggered elections, the Senate requires procedural safeguards to ensure all senators can participate meaningfully in legislation. The filibuster serves the Founders' vision of a deliberative upper chamber that slows the legislative process to ensure thorough consideration of bills before passage.
+
+**Webpage or Book Title**  
+The Heritage Foundation
+
+**URL or page number**  
+https://www.heritage.org/political-process/report/the-filibuster-protects-the-rights-all-senators-and-the-american-people
+
+**Article Title if Applicable**  
+"The Filibuster Protects the Rights of All Senators and the American People"
+
+**Author or Publisher**  
+Brian Darling
+
+**Date first published**  
+January 3, 2011
+
+**Date updated**  
+N/A
+
+**Date accessed**  
+Nov 2025

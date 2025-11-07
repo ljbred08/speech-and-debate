@@ -112,6 +112,10 @@ The skill provides:
 
 See the skill documentation for comprehensive guidance on evidence card research methodology.
 
+For detailed project organization and folder structure, see [ORGANIZATION.md](ORGANIZATION.md).
+
+For current verification status of all evidence cards, see [EVIDENCE-CARDS-STATUS.md](EVIDENCE-CARDS-STATUS.md).
+
 This folder should serve as a comprehensive resource for high-quality debate evidence research, with all cards meeting rigorous academic and competitive debate standards.
 
 ##### To fact-check anything, use the fact-check skill.

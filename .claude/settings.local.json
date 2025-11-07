@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__exa__crawling_exa"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

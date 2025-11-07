@@ -42,6 +42,8 @@ Quotes should be:
 - **Consistent Structure**: All files follow the standard evidence card template
 - **Paired Files**: Each markdown file has a corresponding PDF version
 - **Version Control**: Changes should be committed to preserve research progress
+- **Archive Management**: Orphaned markdown files (without corresponding PDFs) should be moved to archive subfolder
+- **PDF Naming**: PDF files must use underscores instead of spaces for Parse tool compatibility (e.g., `Ban_Stock_Trading_1.pdf`)
 
 ## Usage Guidelines
 
@@ -54,7 +56,25 @@ Quotes should be:
 ### For Research and Verification
 - **Markdown Files**: Use as source for further research; however DO NOT treat the md files as infallible as they are still very likely to have mistakes. For definitive fact-checking, always use the original sources linked.
 - **Source Links**: Include URLs for accessing original documents
-- **Content Sync**: PDF files should be identical to corresponding .md files
+- **Content Sync**: PDF files should be identical to corresponding .md files (format differences only: PDFs use headers, markdown uses table format)
+
+## File Management Workflow
+
+### PDF Processing and Organization
+When working with new PDF documents or verifying existing collections:
+1. **Parse PDFs**: Use `parse` tool to convert PDFs to markdown for analysis
+2. **Verify Mappings**: Compare parsed content with existing markdown files to identify correct matches
+3. **Archive Orphans**: Move any markdown files without corresponding PDFs to archive subfolder
+4. **Create Missing Files**: For PDFs without corresponding markdown files, create new markdown files using table schema
+5. **Content Verification**: Ensure PDF and markdown content matches exactly (format differences only)
+
+### Schema Standards
+All evidence card markdown files must use structured table format with these columns:
+- **Tag Line**: Concise summary of main argument
+- **Verbal Citation**: Complete quotes with source attribution for debate rounds
+- **What the evidence says in context**: Full explanation of source arguments
+- **Impact**: Analysis connecting evidence to debate positions
+- **Bibliographic Information**: Complete citation details (title, URL, author, dates)
 
 ## Creating New Evidence Cards
 

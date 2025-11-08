@@ -8,7 +8,7 @@
 | **Webpage or Book Title** | Voting Representation for the District of Columbia: Violating the Framers' Vision and Constitutional Commands |
 | **URL or page number** | https://www.heritage.org/the-constitution/report/voting-representation-the-district-columbia-violating-the-framers-vision |
 | **Article Title if Applicable** | Voting Representation for the District of Columbia: Violating the Framers' Vision and Constitutional Commands |
-| **Author or Publisher** | Andrew Grossman, Former Visiting Fellow, The Heritage Foundation |
+| **Author or Publisher** | Andrew Grossman, Senior Legal Policy Analyst, Center for Legal and Judicial Studies, The Heritage Foundation |
 | **Date first published** | February 19, 2009 |
 | **Date updated** | N/A |
 | **Date accessed** | November 8, 2025 |

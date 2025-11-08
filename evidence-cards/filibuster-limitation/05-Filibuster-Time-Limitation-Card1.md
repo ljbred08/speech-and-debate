@@ -1,0 +1,14 @@
+# Filibuster Time Limitation - Evidence Card 1
+
+| **Tag Line** | Time limits undermine the Senate's constitutional role as a deliberative body designed for extended debate and careful consideration |
+|--------------|----------------------------------|
+| **Verbal Citation** | Professor Michael Gerhardt of William & Mary Law School, in his constitutional analysis, states that "The filibuster derives its principal authority from the Senate's express power to design its own procedural rules to govern its internal affairs and the Senate's consistent support for its constitutionality. It is also one of many counter-majoritarian features of the Senate, such as the committee system and unanimous consent requirements for agenda-setting." Gerhardt emphasizes that "The same constitutional arguments support each of these practices. If these practices are constitutional, so is the filibuster." He further explains that these practices "define the Senate's uniqueness as a political institution, particularly its historic commitments to various objectives—respecting the equality of its membership and to minority viewpoints; encouraging compromise on especially divisive matters; and facilitating stability, order, and collegiality in the long run." |
+| **What the evidence says in context** | Gerhardt explains that the filibuster is constitutionally grounded in the Senate's express power to determine its own rules and serves as a critical counter-majoritarian feature that protects minority rights and ensures extended deliberation. He shows that these practices reflect the Senate's historic commitments to respecting equality of membership, minority viewpoints, and encouraging compromise on divisive matters. Time limitations would undermine this constitutional design and the Senate's traditional role as a deliberative body. |
+| **Impact** | This evidence demonstrates that imposing time limits on filibusters would violate the Senate's constitutional authority to set its own procedural rules, undermine essential counter-majoritarian protections, and diminish the minority's ability to ensure thorough deliberation, ultimately weakening the Senate's unique constitutional role in the legislative process. |
+| **Webpage or Book Title** | William & Mary Law School Faculty Scholarship |
+| **URL or page number** | https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1887&context=facpubs |
+| **Article Title if Applicable** | Constitutional Analysis of Senate Filibuster Rules |
+| **Author or Publisher** | Michael Gerhardt, William & Mary Law School |
+| **Date first published** | N/A |
+| **Date updated** | N/A |
+| **Date accessed** | November 8, 2025 |

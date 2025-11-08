@@ -1,0 +1,17 @@
+# Overview of House Qualifications Clause | Constitution Annotated | Congress.gov | Library of Congress
+
+By Joseph Story
+
+Source: [https://constitution.congress.gov/browse/essay/artI-S2-C2-1/ALDE\_00013371/](https://constitution.congress.gov/browse/essay/artI-S2-C2-1/ALDE_00013371/)
+
+Article I, Section 2, Clause 2:
+
+No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
+
+The House Qualifications Clause set forth at Article I, Section 2, Clause 2 requires a Member to be at least twenty-five years of age, a United States citizen for seven years, and an inhabitant of the state from which he or she is elected at the time of election. The Framers designed these minimal requirements to give people freedom to choose the person who would best represent their interests in Congress. Explaining the impetus behind the adoption of these requirements at the Constitutional Convention, the writer of the _Federalist No. 52_ commented: "Under these reasonable limitations, the door of this part of the federal government is open to merit of every description, whether native or adoptive, whether young or old, and without regard to poverty or wealth, or to any particular profession of religious faith."[1](#ALDF_00023403)
+
+When determining the qualification requirements, the Framers gave careful consideration to what the office required.[2](#ALDF_00023404) The Framers reasoned that a twenty-five year age requirement would ensure that Members had sufficient maturity to perform their duties, while a seven-year citizenship requirement would allow foreign born citizens to participate in the government while ensuring they were knowledgeable about the United States and unlikely to be influenced by loyalty to the land of their birth.[3](#ALDF_00023405) Finally, the Framers required Members to be inhabitants[4](#ALDF_00023406) of the state from which they were elected so that they would be vested in representing the interests of the state. Discussing the residency requirements in his _Commentaries on the Constitution of the United States_, Justice Joseph Story stated:
+
+> The object of this clause, doubtless, was to secure an attachment to, and a just representation of, the interests of the state in the national councils. It was supposed, that an inhabitant would feel a deeper concern, and possess a more enlightened view of the various interests of his constituents. And, in all events, he would generally possess more entirely their sympathy and confidence.[5](#ALDF_00023407)
+
+While Article I, Section 2, Clause 2 expressly requires state inhabitancy at the time of the election, Congress has interpreted the House Qualifications Clause to require only that Members meet age and citizenship qualifications at the time they take the oath of office.[6](#ALDF_00023408) Thus, Congress has admitted persons, who were ineligible when elected, to the House of Representatives once they met age and citizenship criteria for membership in the House.[7](#ALDF_00023409) Further, the Supreme Court held in Powell v. McCormack[8](#ALDF_00023410) and U.S. Term Limits, Inc. v. Thornton[9](#ALDF_00023411) that neither Congress nor the states, respectively, can add to the qualifications stipulated in the Constitution for membership in Congress.

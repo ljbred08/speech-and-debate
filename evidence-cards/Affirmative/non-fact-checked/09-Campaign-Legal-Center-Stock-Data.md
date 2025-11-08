@@ -1,0 +1,12 @@
+| **Tag Line** | Campaign Legal Center data shows 53% of Congress owns individual stock while only 2% use qualified blind trusts, demonstrating clear need for reform |
+|--------------|----------------------------------|
+| **Verbal Citation** | The Campaign Legal Center report 'Congressional Stock Trading by the Numbers in the 117th Congress' reveals that 'out of 535 total members of Congress, 284 (53%) own stock (223 Representatives, 61 Senators).' The report shows that '10 (2%) have a QBT (4 Representatives, 6 Senators). Of those, all also own stocks or widely held investment funds that are not held in their QBT based on the most recent publicly available disclosures.' The data indicates that '212 (40%) own only widely held investment funds (mutual funds, ETFs, pensions)' while just '39 (7%) do not own stock or widely held investment funds.' The report also found significant trading activity with a 'Total value: $631 million' where Congress members 'Bought: $267 million' and 'Sold: $364 million' in stock transactions. |
+| **What the evidence says in context** | The Campaign Legal Center's comprehensive analysis of congressional financial disclosures shows that the vast majority of members retain the ability to trade individual stocks despite conflicts of interest, while genuine conflict-prevention mechanisms like qualified blind trusts are almost never used. The data reveals over half of Congress owns individual stocks, creating widespread potential for conflicts between legislative duties and personal financial interests. |
+| **Impact** | This authoritative data from the Campaign Legal Center demonstrates the scale of the congressional trading problem and the ineffectiveness of current voluntary conflict-prevention measures. The fact that only 2% of Congress uses qualified blind trusts while 53% own individual stocks shows why mandatory legislation like the TRUST Act is necessary. The $631 million in total trading volume shows the significant financial stakes involved. |
+| **Webpage or Book Title** | Congressional Stock Trading By The Numbers in the 117th Congress |
+| **URL or page number** | https://campaignlegal.org/sites/default/files/2022-02/Congressional%20Stock%20Trading%20By%20The%20Numbers%20in%20the%20117th%20Congress.pdf |
+| **Article Title if Applicable** | Congressional Stock Trading By The Numbers in the 117th Congress |
+| **Author or Publisher** | Campaign Legal Center |
+| **Date first published** | February 2022 |
+| **Date updated** | February 2022 |
+| **Date accessed** | November 8, 2025 |

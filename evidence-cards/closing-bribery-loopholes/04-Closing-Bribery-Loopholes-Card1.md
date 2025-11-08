@@ -1,0 +1,14 @@
+# Closing Bribery Loopholes Act - Evidence Card 1
+
+| **Tag Line** | Anti-corruption legislation that restricts lobbying and fundraising faces strict First Amendment scrutiny and likely fails constitutional requirements |
+|--------------|----------------------------------|
+| **Verbal Citation** | Professor Lillian R. BeVier of the University of Virginia Law School, in her Cato Institute policy analysis "Campaign Finance 'Reform' Proposals: A First Amendment Analysis," states that "In Buckley v. Valeo (1976), the Supreme Court affirmed that giving money to and spending money on political campaigns is a core First Amendment activity." She further explains that "Restrictions on political contributions and expenditures infringe on rights of speech and association. Therefore, the Court will strictly scrutinize such restrictions" and warns that "Limits on independent expenditures by individuals and political groups are likely to be unconstitutional regardless of the context or the purported justification." BeVier concludes that "Preventing corruption or the appearance of corruption remains the 'single narrow exception to the rule that limits on political activity' are contrary to the First Amendment." |
+| **What the evidence says in context** | Professor BeVier analyzes the constitutional framework established by Buckley v. Valeo, showing that political contributions and spending receive core First Amendment protection. She explains that any restrictions face strict scrutiny and are likely unconstitutional unless they narrowly target actual corruption, making broad anti-corruption measures like the Closing Bribery Loopholes Act vulnerable to constitutional challenges. |
+| **Impact** | This evidence demonstrates that the Closing Bribery Loopholes Act would likely be struck down as unconstitutional for violating First Amendment protections on political speech and association, since its restrictions on lobbying and fundraising activities go beyond the narrow corruption exception established by Buckley and would not survive strict scrutiny review. |
+| **Webpage or Book Title** | Cato Institute Policy Analysis |
+| **URL or page number** | https://www.cato.org/policy-analysis/campaign-finance-reform-proposals-first-amendment-analysis |
+| **Article Title if Applicable** | Campaign Finance "Reform" Proposals: A First Amendment Analysis |
+| **Author or Publisher** | Lillian R. BeVier, Henry & Grace Doherty Charitable Foundation Professor, University of Virginia Law School |
+| **Date first published** | N/A |
+| **Date updated** | 2022 |
+| **Date accessed** | November 8, 2025 |

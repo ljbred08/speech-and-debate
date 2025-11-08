@@ -1,0 +1,14 @@
+# Filibuster Topic Limitation - Evidence Card 1
+
+| **Tag Line** | Filibuster restrictions would undermine Senate's constitutional role as deliberative body and diminish senators' rights to participate in legislative process |
+|--------------|----------------------------------|
+| **Verbal Citation** | Brian Darling of The Heritage Foundation, in "The Filibuster Protects the Rights of All Senators and the American People," states that "The filibuster in the U.S. Senate protects the rights of Senators to debate and amend legislation, thereby protecting the interest of the American people. The filibuster actually realizes the Founders' intent that the Senate slow the legislative process 'to ensure due deliberation and inquiry' before passing a bill. Current efforts to limit the filibuster to expedite the legislative process are misguided." Darling further explains that "The United States Senate has a long and storied tradition of extended debate" and warns that "Any rule that makes it easier for Senate leaders to end debate and block the amendment process will lead to less transparency, rushed debate, and a diminution of Senators' rights to participate in the legislative process." He concludes that "Traditionally, Senators have enjoyed the right to unlimited debate on legislation or a nomination unless the Senate votes to end debate. Rule 22 thus empowers ordinary Senators to make their voices heard and guarantees them the opportunity to offer amendments during Senate floor debates." |
+| **What the evidence says in context** | Darling analyzes the constitutional and historical foundations of the filibuster, showing that Rule 22 of the Senate Rules establishes the right to unlimited debate and that this tradition serves the Founders' intent of creating a Senate that slows the legislative process to ensure careful deliberation. He argues that recent efforts to limit filibuster tactics would undermine the Senate's unique constitutional role as a deliberative body. |
+| **Impact** | This evidence demonstrates that restricting the filibuster through time limits, topic bans, or other limitations would violate the Senate's constitutional authority to determine its own rules, undermine the Founders' intent of creating a deliberative upper chamber, reduce transparency, and diminish individual senators' rights to participate meaningfully in the legislative process. |
+| **Webpage or Book Title** | The Heritage Foundation |
+| **URL or page number** | https://www.heritage.org/political-process/report/the-filibuster-protects-the-rights-all-senators-and-the-american-people |
+| **Article Title if Applicable** | The Filibuster Protects the Rights of All Senators and the American People |
+| **Author or Publisher** | Brian Darling, Policy Analyst, The Heritage Foundation |
+| **Date first published** | January 3, 2011 |
+| **Date updated** | N/A |
+| **Date accessed** | November 8, 2025 |

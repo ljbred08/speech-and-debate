@@ -6,7 +6,6 @@ Published Jan 3, 2023, 11:29 AM
 
 Source: [https://www.businessinsider.com/congress-stock-act-violations-senate-house-trading-2021-9](https://www.businessinsider.com/congress-stock-act-violations-senate-house-trading-2021-9)
 
-![congressional stock report lobbying federal government 4x3](https://i.insider.com/606798db856cd700198a3063?width=700)
 
 Marianne Ayala/Insider
 

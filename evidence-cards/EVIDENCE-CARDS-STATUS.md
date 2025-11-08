@@ -7,63 +7,63 @@
 
 ## 🟢 COMPETITION-READY (Verified & Approved)
 
-### 01-stock-trading-ban-harper.md ✅
+### Negative/stock-trading-ban/01-stock-trading-ban-harper.md ✅
 **Topic:** Arguments Against Banning Congressional Stock Trading
 **Source:** Jim Harper, Cato Institute (2008)
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All quotes verified word-for-word. Source documentation created.
 
-### 02-stock-trading-ban-cato.md ✅
+### Negative/stock-trading-ban/02-stock-trading-ban-cato.md ✅
 **Topic:** Arguments Against Banning Congressional Stock Trading
 **Source:** Jennifer J. Schulp, Cato Institute
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All quotes verified word-for-word. Ready for competition.
 
-### 03-debt-limit-ban-treasury.md ✅
+### Negative/debt-limit-ban/03-debt-limit-ban-treasury.md ✅
 **Topic:** Arguments Against Banning Congressional Debt Limit Increases
 **Source:** U.S. Department of the Treasury
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** Treasury quote and historical data (78 times since 1960) confirmed.
 
-### 04-debt-limit-ban-brookings.md ✅
+### Negative/debt-limit-ban/04-debt-limit-ban-brookings.md ✅
 **Topic:** Arguments Against Banning Congressional Debt Limit Increases
 **Source:** Wendy Edelberg et al., Brookings Institution
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All economic analysis quotes verified.
 
-### 05-cloture-lowering-lee.md ✅
+### Negative/cloture-lowering/05-cloture-lowering-lee.md ✅
 **Topic:** Arguments Against Lowering Senate Cloture Threshold
 **Source:** Senator Mike Lee
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All constitutional analysis quotes verified.
 
-### 05a-cloture-lowering-rstreet.md ✅
+### Negative/cloture-lowering/05a-cloture-lowering-rstreet.md ✅
 **Topic:** Arguments Against Lowering Senate Cloture Threshold
 **Source:** Jeremy Dalrymple, R Street Institute
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All procedural analysis quotes verified.
 
-### 06-lobbyist-fundraising-ban-cornell.md ✅
+### Negative/lobbyist-fundraising-ban/06-lobbyist-fundraising-ban-cornell.md ✅
 **Topic:** Arguments Against Banning Lobbyist Campaign Contributions
 **Source:** Green Party of Connecticut v. Garfield (Second Circuit)
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All legal analysis quotes verified from court opinion.
 
-### 07-filibuster-abolition-heritage.md ✅
+### Negative/filibuster-abolition/07-filibuster-abolition-heritage.md ✅
 **Topic:** Arguments Against Abolishing the Filibuster
 **Source:** Brian Darling, Heritage Foundation
 **Status:** VERIFIED ACCURATE
 **Date Verified:** Nov 7, 2025
 **Notes:** All constitutional analysis quotes verified.
 
-### 08-government-shutdown-act-opposition.md ✅
+### Negative/government-shutdown-act/08-government-shutdown-act-opposition.md ✅
 **Topic:** Arguments Against End Government Shutdown Act
 **Source:** Richard Kogan & Paul N. Van de Water, CBPP
 **Status:** VERIFIED ACCURATE
@@ -78,15 +78,15 @@
 
 | Card # | File | Status | Last Checked | Next Review |
 |--------|------|--------|--------------|-------------|
-| 01 | 01-stock-trading-ban-harper.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 02 | 02-stock-trading-ban-cato.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 03 | 03-debt-limit-ban-treasury.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 04 | 04-debt-limit-ban-brookings.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 05 | 05-cloture-lowering-lee.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 05a | 05a-cloture-lowering-rstreet.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 06 | 06-lobbyist-fundraising-ban-cornell.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 07 | 07-filibuster-abolition-heritage.md | ✅ Ready | Nov 7, 2025 | 6 months |
-| 08 | 08-government-shutdown-act-opposition.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 01 | Negative/stock-trading-ban/01-stock-trading-ban-harper.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 02 | Negative/stock-trading-ban/02-stock-trading-ban-cato.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 03 | Negative/debt-limit-ban/03-debt-limit-ban-treasury.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 04 | Negative/debt-limit-ban/04-debt-limit-ban-brookings.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 05 | Negative/cloture-lowering/05-cloture-lowering-lee.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 05a | Negative/cloture-lowering/05a-cloture-lowering-rstreet.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 06 | Negative/lobbyist-fundraising-ban/06-lobbyist-fundraising-ban-cornell.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 07 | Negative/filibuster-abolition/07-filibuster-abolition-heritage.md | ✅ Ready | Nov 7, 2025 | 6 months |
+| 08 | Negative/government-shutdown-act/08-government-shutdown-act-opposition.md | ✅ Ready | Nov 7, 2025 | 6 months |
 
 ---
 
@@ -114,6 +114,8 @@
 - Resolved all previous accuracy and attribution issues
 - All 9 evidence cards now verified as competition-ready with word-for-word accurate quotes
 - Implemented robust source documentation workflow for future evidence card creation
+- **REORGANIZATION:** Deleted archive folder, moved all evidence cards to Negative/ subfolder, created Affirmative/ folder for future content
+- Updated documentation files to reflect new folder structure
 
 ---
 

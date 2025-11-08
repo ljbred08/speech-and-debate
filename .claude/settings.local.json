@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "mcp__exa__crawling_exa",
-      "mcp__Printer__markdown_to_pdf"
+      "mcp__Printer__markdown_to_pdf",
+      "mcp__mistral-ocr__process_local_file"
     ],
     "deny": [],
     "ask": []

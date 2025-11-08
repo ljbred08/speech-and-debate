@@ -40,7 +40,7 @@
 <td>Unsure</td>
 </tr>
 <tr>
-<td>☐</td>
+<td>☑</td>
 <td>Canna, C/Gill, N</td>
 <td>Appoint a delegate to D.C.</td>
 <td>N/A</td>
@@ -54,7 +54,7 @@
 <td>Using sample case and potentially additional resources</td>
 </tr>
 <tr>
-<td>☐/☑</td>
+<td>☑</td>
 <td>Elliott, C/Yorke, S</td>
 <td>No Budget, No Pay</td>
 <td>Change Filibuster, Lower Debt</td>
@@ -86,7 +86,7 @@
 <td>NCFCA Case</td>
 </tr>
 <tr>
-<td>☑/☐</td>
+<td>☑</td>
 <td>Kagy, Joa/Palmisano, C</td>
 <td>Restore War-Making Authority to Congress</td>
 <td>Lower the Cloture Threshold, Cognitive Testing</td>
@@ -118,21 +118,21 @@
 <td>Banning members of Congress and their families from stock trading</td>
 </tr>
 <tr>
-<td>☐</td>
+<td>☑</td>
 <td>Lasley, G/Weaver, H</td>
 <td>Limiting the topics that are allowed to be talked</td>
 <td>Maybe something else (probably something to do with reducing cloture, or improving the</td>
 <td>Limiting the speaker in a filibuster to only the topic of the bill and/or only relevant topics</td>
 </tr>
 <tr>
-<td>☑/☐</td>
+<td>☑</td>
 <td>Lee, E/Saez, O</td>
 <td>Pass the Closing Bribery Loopholes Act</td>
 <td>Stock trading</td>
 <td></td>
 </tr>
 <tr>
-<td>☐</td>
+<td>☑</td>
 <td>Lorenzini, An/Lorenzini, G</td>
 <td>Limiting the Filibuster</td>
 <td></td>
@@ -167,7 +167,7 @@
 <td>Banning Lobbyist Fundraising</td>
 </tr>
 <tr>
-<td>☐</td>
+<td>☑</td>
 <td>Stahlmann, M/Welch, C</td>
 <td>Enforce Committee Deliberation</td>
 <td>N/A</td>

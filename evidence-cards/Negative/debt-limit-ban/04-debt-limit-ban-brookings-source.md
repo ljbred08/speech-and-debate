@@ -8,7 +8,7 @@ Commentary
 
 May 23, 2023
 
-![The U.S. Treasury building](https://www.brookings.edu/wp-content/uploads/2023/05/20230523_THP_Treasury_shutterstock_641123671_cropped.jpg?quality=75\&w=1500)
+
 
 The U.S. Treasury building
 

@@ -1,0 +1,1 @@
+- Every time you commit and push, git add . instead of specific files

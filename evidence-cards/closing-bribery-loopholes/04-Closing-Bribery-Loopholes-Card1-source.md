@@ -1,8 +1,12 @@
 
-# Policy Analysis
+# Campaign Finance "Reform" Proposals: A First Amendment Analysis
 
-# Cato Institute Policy Analysis No. 282:  
-## Campaign Finance "Reform" Proposals: A First Amendment Analysis
+By Lillian R. BeVier
+
+Source: [https://www.cato.org/policy-analysis/campaign-finance-reform-proposals-first-amendment-analysis](https://www.cato.org/policy-analysis/campaign-finance-reform-proposals-first-amendment-analysis)
+
+## Cato Institute Policy Analysis No. 282:
+### Campaign Finance "Reform" Proposals: A First Amendment Analysis
 
 September 4, 1997
 

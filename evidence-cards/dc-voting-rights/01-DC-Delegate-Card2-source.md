@@ -1,6 +1,8 @@
-# The Avalon Project : Federalist No 43
+# Federalist No. 43
 
-Source: [https://avalon.law.yale.edu/18th\_century/fed43.asp](https://avalon.law.yale.edu/18th_century/fed43.asp)
+By James Madison
+
+Source: [https://avalon.law.yale.edu/18th_century/fed43.asp](https://avalon.law.yale.edu/18th_century/fed43.asp)
 
 "To exercise exclusive legislation, in all cases whatsoever, over such district (not exceeding ten miles square) as may, by cession of particular States and the acceptance of Congress, become the seat of the government of the United States; and to exercise like authority over all places purchased by the consent of the legislatures of the States in which the same shall be, for the erection of forts, magazines, arsenals, dockyards, and other needful buildings.
 

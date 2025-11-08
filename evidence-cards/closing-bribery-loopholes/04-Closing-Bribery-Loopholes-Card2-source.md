@@ -1,8 +1,14 @@
 
-# Syllabus
+# Snyder v. United States
 
-> NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.  
-> The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.  
+By Supreme Court of the United States
+
+Source: [https://www.supremecourt.gov/opinions/23pdf/23-108_8n5a.pdf](https://www.supremecourt.gov/opinions/23pdf/23-108_8n5a.pdf)
+
+## Syllabus
+
+> NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+> The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
 > See *United States v. Detroit Timber & Lumber Co.*, 200 U. S. 321, 337.
 
 # SUPREME COURT OF THE UNITED STATES
